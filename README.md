@@ -1,5 +1,5 @@
 ptr-cli
------
+=====
 ptr-cli is a command line interface for [PokerTableRatings][1].
 
 [1]: http://www.pokertableratings.com/
